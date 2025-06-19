@@ -1,4 +1,4 @@
-<img src= "https://github.com/user-attachments/assets/7f12dbff-b04c-49a0-b28a-ea76f25de74b.png">
+![Hatsune Miku](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/images/banner.png)
 
 
 
