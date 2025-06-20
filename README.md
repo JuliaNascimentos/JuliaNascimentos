@@ -1,7 +1,3 @@
-![Hatsune Miku](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/images/banner.png)
-
-
-
 # Hello World! I'm Julia ‧₊˚❀༉‧₊˚.
 
 ### Sou feita de chuva, maracujá, musicas, melancolia e bastante ciúmes.
@@ -26,7 +22,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 # EXPERIÊNCIAS...
 
-Em busca de novas experiências
+Faço parte de uma Startup, atuo na parte do design e marketing. Busco novas expereiências!
 
 <table border="2">
 
