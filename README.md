@@ -4,8 +4,6 @@ Formada em Téc. Desenvolvimento de Sistemas, atualmente cursando Eng. Ambiental
 
 # EXPERIÊNCIAS...
 
-Faço parte de uma Startup, atuo na parte do design e marketing. Busco novas expereiências!
-
 <table border="2">
 
   <tr>
