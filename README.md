@@ -40,14 +40,6 @@ Faço parte de uma Startup, atuo na parte do design e marketing. Busco novas exp
   
 </table>
   
-# HOBBIES...
-
-➤ Ouvir música;  <br>
-➤ Não ter nada fazer; <br>
-➤ Fazer musse de maracujá; <br>
-➤ Cuidar de quem eu amo; <br>
-➤ Jogar. <br>
-
 # STATUS E REDES SOCIAIS... 
 
 <br>
