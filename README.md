@@ -1,4 +1,7 @@
 # Hello World! I'm Julia ‧₊˚❀༉‧₊˚.
+
+### Formada em Téc. Desenvolvimento de Sistemas, atualmente cursando Eng. Ambiental no IFCE campus Quixadá.
+
 ⠀⠀⠀⠀⠀⠀
 # EXPERIÊNCIAS...
 
